@@ -48,7 +48,8 @@ Keychain Accessで"com.honishi.Hakumai.account"のエントリを削除(あれ�
 
 * とい, 飯塚健一郎, らみあ, 田口潤, 森一真
 * ジャスティス名川, 松原理央, 진
-* 大原直人, 桜ほたる, Daijiro Wachi, econa77
+* 大原直人, 桜ほたる
+* Daijiro Wachi, econa77, macneko-ayu
 
 ## Contacts
 
