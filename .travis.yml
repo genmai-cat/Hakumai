@@ -1,6 +1,10 @@
 language: objective-c
 osx_image: xcode12
 rvm: 2.5.1
+before_install:
+  - sysctl machdep.cpu.brand_string
+  - sysctl -a machdep.cpu
+  - system_profiler SPHardwareDataType
 install:
   - bundle install
   - travis_wait 30 bundle exec pod repo update --silent
