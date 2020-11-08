@@ -11,6 +11,11 @@ jobs:
       - uses: actions/checkout@v2
 
       # debug prints
+      - name: Show hardware specs
+        run: |
+          sysctl machdep.cpu.brand_string
+          sysctl -a machdep.cpu
+          system_profiler SPHardwareDataType
       - name: Show Xcode versions
         run: ls /Applications | grep 'Xcode'
 
