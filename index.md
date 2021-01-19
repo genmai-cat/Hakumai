@@ -11,7 +11,7 @@ layout: default
 * Hakumai は Mac OS X で動作するニコニコ生放送用のコメントビューア(コメビュ)で<strike>す</strike>した。
 * 配布、メンテナンスを終了しました。(2021/1/19)
 
-## How to Completely Uninstall Hakumai
+## How to Uninstall Hakumai completely
 
 <img src="./image/imfull.png" width="350px">
 
