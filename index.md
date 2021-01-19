@@ -13,7 +13,7 @@ layout: default
 
 ## How to Completely Uninstall Hakumai
 
-<img src="./image/imfull.png" width="550px">
+<img src="./image/imfull.png" width="350px">
 
 ~~~
 rm /path/to/Hakumai.app
